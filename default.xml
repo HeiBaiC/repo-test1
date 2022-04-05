@@ -6,12 +6,6 @@
         revision="main"
     />
  
-    <remote
-        name="master"
-        fetch="git@github.com:HeiBaiC/hello_word.git"
-        revision="master" 
-    />
-  
     <default
         revision="master"
         remote="origin"
